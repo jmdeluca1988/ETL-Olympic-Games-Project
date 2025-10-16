@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+processed/
+.DS_Store
+__pycache__/
+*.pyc
+*.parquet
+*.sqlite
